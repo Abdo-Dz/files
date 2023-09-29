@@ -1,8 +1,8 @@
 # Receiver Set:,rx 1 - 25m to rx 3 - 75m,,
 # Transmitter Set:,halo +x,,
 # Number of Sets:,3,,
+Set Number,Total Paths,,
 Path Number,Phase (Deg.),Time (s),Power (dBm)
-Set#,Paths,,
 1,14,,
 1,85.423,0.000000059775225,-40.834
 2,-91.021,0.000000060465645,-60.385
